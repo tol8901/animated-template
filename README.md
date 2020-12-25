@@ -1,9 +1,10 @@
 # animated-template
 # Description 
 
-This project shows an animation of the elements on the Web-page template.
+This learning project shows an animation of the elements on the Web-page template,
+which are firing one by one, during scrolling of the web-page.
 
-# Used resourses 
+# Used resources 
 Here we used:
 - A web-page template: https://www.creative-tim.com/;
 - An HTML Formatter service: https://webformatter.com/html;
@@ -13,6 +14,7 @@ Here we used:
 # Available
 
 The project is available on the link below: 
+
 https://tol8901.github.io/animated-template/.
 
 # Screenshots
